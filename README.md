@@ -15,7 +15,7 @@ The second was, if i am being frank, very rough. It was for CMPT 406 and our tea
 
 Anyhoo, if you want to collab let me know! My schedule might get busy but I will definitely make room if I can!
 
-Reach out to me via email aurora.dubnyk88@gmail.com
+Reach out to me via email aurora.dubnyk88@gmail.com or message me via [LinkedIn](https://www.linkedin.com/in/aurora-dubnyk/)
 
 Have a excellent day!
 
