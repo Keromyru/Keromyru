@@ -1,4 +1,4 @@
-Hi, I’m @Keromyru, I have been working as a Web Dev but also trying to familiarize myself with Game Dev via in school projects and personal projects.
+Hi, I’m Aurora (@Keromyru), I have been working as a Web Dev but also trying to familiarize myself with Game Dev via in school projects and personal projects.
 
 I’m interested in learning more about Web Dev as I have experience and enjoy the problem space; in particular full stack web developement as I have been primarily focused on front end-development, integrations and utilizing APIs. I also have some familiarity with AWS SAM and Lambdas.
 
