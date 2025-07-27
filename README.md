@@ -1,4 +1,4 @@
-Hi, I’m Aurora (@Keromyru), I have been working as a Web Dev but also trying to familiarize myself with Game Dev via in school projects and personal projects.
+Hi, I’m Aurora (@Keromyru), I have been working as a Software Developer but also trying to familiarize myself with Game Development via in school projects and personal projects.
 
 I’m interested in learning more about Web Dev as I have experience and enjoy the problem space; in particular more full stack web developement as I find having more context for how systems work across the tech stack means better solutions to be made instead of solely focusing on just front-end or back-end. I have a pretty eclectic experience that I discuss on my LinkedIn page (link at the bottom of this README). However I do enjoy helping people and working in a multifaceted role since I love experiencing all aspects of a company. 
 
